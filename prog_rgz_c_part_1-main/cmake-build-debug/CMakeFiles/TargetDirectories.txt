@@ -1,0 +1,3 @@
+/Users/dmitrijstarcenko/Downloads/prog_rgz_c_part_1-main/cmake-build-debug/CMakeFiles/prog_rgz_c.dir
+/Users/dmitrijstarcenko/Downloads/prog_rgz_c_part_1-main/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dmitrijstarcenko/Downloads/prog_rgz_c_part_1-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
